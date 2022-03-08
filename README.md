@@ -1,7 +1,7 @@
 # Range Queries Code (Under Construction)
 
-This repository includes experiments from the  paper 
-> [Answering Range Queries Under Local Differential Privacy](https://arxiv.org/abs/1812.10942)
+This repository includes experiments from the VLDB 2019 paper 
+> [Answering Range Queries Under Local Differential Privacy](http://www.vldb.org/pvldb/vol12/p1126-cormode.pdf)
 
 # The experiments involve 3 histogram aggregation primitives. 
 + OUE ([Optimal Unary Encoding](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-tianhao.pdf))
@@ -68,7 +68,7 @@ Please include a citation to the paper if you use this code.
 >@inproceedings{CKS19,
   title = {Answering Range Queries Under Local Differential Privacy},
   author = {Graham Cormode and Tejas Kulkarni and Divesh Srivastava},  
-  url  = {https://arxiv.org/abs/1812.10942},
+  url  = {http://www.vldb.org/pvldb/vol12/p1126-cormode.pdf},
   year = {2019},
 }
 
